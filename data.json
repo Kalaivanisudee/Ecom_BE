@@ -1,0 +1,156 @@
+[
+    {
+        "title": "Smartphone",
+        "description": "A high-quality smartphone with a stunning display.",
+        "price": 699,
+        "category": "electronics",
+        "image": "https://diamu.com.bd/wp-content/uploads/2023/04/Xiaomi-13-Lite.jpg",
+        "quantity": 10
+    },
+    {
+        "title": "Laptop",
+        "description": "Powerful laptop for professionals.",
+        "price": 1299,
+        "category": "electronics",
+        "image": "https://teclast.com.ua/image/cache/catalog/product/notebook/F16%20Plus/Teclast-F16-Plus-9-original-size-1000x1000.jpg",
+        "quantity": 5
+    },
+    {
+        "title": "T-shirt",
+        "description": "Comfortable cotton T-shirt.",
+        "price": 19,
+        "category": "clothing",
+        "image": "https://m.media-amazon.com/images/I/51v9EAFbgCL._AC_UY1000_.jpg",
+        "quantity": 50
+    },
+    {
+        "title": "Blender",
+        "description": "High-speed blender for making smoothies and soups.",
+        "price": 49,
+        "category": "home appliances",
+        "image": "https://mybluebees.com/wp-content/uploads/2024/08/KITCHMATE-550___MAIN-copy.jpg-1000x1000-1.webp",
+        "quantity": 20
+    },
+    {
+        "title": "Vacuum Cleaner",
+        "description": "Powerful vacuum cleaner with HEPA filter.",
+        "price": 199,
+        "category": "home appliances",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/cv-995dc-gold-black-184517365-7zqg5.jpg",
+        "quantity": 15
+    },
+    {
+        "title": "Microwave Oven",
+        "description": "Compact microwave oven with digital controls.",
+        "price": 89,
+        "category": "home appliances",
+        "image": "https://primejigar.com/wp-content/uploads/2020/08/61MKp9MaSiL._SL1000_.jpg",
+        "quantity": 30
+    },
+    {
+        "title": "Sneakers",
+        "description": "Comfortable running shoes for daily wear.",
+        "price": 79,
+        "category": "clothing",
+        "image": "https://assets.vogue.in/photos/5f44f483e07cbbc0d15b6758/1:1/w_1000,h_1000,c_limit/9%20newly%20launched%20sneakers%20you%20need%20to%20invest%20in%20right%20now%20f.jpg",
+        "quantity": 40
+    },
+    {
+        "title": "Jeans",
+        "description": "Stylish denim jeans with a modern fit.",
+        "price": 49,
+        "category": "clothing",
+        "image": "https://images.jdmagicbox.com/quickquotes/images_main/overall-jeans-373349612-vvi86.jpg",
+        "quantity": 60
+    },
+    {
+        "title": "Smartwatch",
+        "description": "Track your fitness and notifications on the go.",
+        "price": 199,
+        "category": "electronics",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL3xO8b7lw70pRulZuvIi_E4j0i9BgK5VJdA&s",
+        "quantity": 25
+    },
+    {
+        "title": "Gaming Console",
+        "description": "Next-gen gaming console for a seamless gaming experience.",
+        "price": 499,
+        "category": "electronics",
+        "image": "https://www.jiomart.com/images/product/original/rvdruacqxn/dkd-4k-ultra-hd-arcade-game-video-stick-console-built-in-10000-retro-classic-games-64-gb-with-dual-wireless-controller-for-tv-product-images-orvdruacqxn-p594477414-0-202210141352.jpg?im=Resize=(1000,1000)",
+        "quantity": 12
+    },
+    {
+        "title": "Electric Kettle",
+        "description": "Fast boiling electric kettle with auto shut-off.",
+        "price": 29,
+        "category": "home appliances",
+        "image": "https://www.biladistores.com/storage/5819/25-1000x1000.webp",
+        "quantity": 50
+    },
+    {
+        "title": "Air Conditioner",
+        "description": "Energy-efficient air conditioner for cooling large rooms.",
+        "price": 399,
+        "category": "home appliances",
+        "image": "https://5.imimg.com/data5/TV/LM/RZ/SELLER-67418004/samsung-split-air-conditioners.jpg",
+        "quantity": 10
+    },
+    {
+        "title": "Jacket",
+        "description": "Warm winter jacket for extreme cold.",
+        "price": 129,
+        "category": "clothing",
+        "image": "https://homicreations.com/cdn/shop/files/asset_573038_image_big_2048x.png?v=1714095601",
+        "quantity": 20
+    },
+    {
+        "title": "Tablet",
+        "description": "Lightweight tablet with a high-resolution display.",
+        "price": 299,
+        "category": "electronics",
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/5/305984511/LS/GC/PL/4911957/wacom-cintiq-16-drawing-tablet-with-screen.jpg",
+        "quantity": 30
+    },
+    {
+        "title": "Headphones",
+        "description": "Noise-cancelling headphones with superior sound quality.",
+        "price": 149,
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/51obkIBP5OS.jpg",
+        "quantity": 25
+    },
+    {
+        "title": "Refrigerator",
+        "description": "Spacious refrigerator with energy-efficient cooling.",
+        "price": 799,
+        "category": "home appliances",
+        "image": "https://m.media-amazon.com/images/I/71g6RzRFV6L._AC_UF1000,1000_QL80_.jpg",
+        "quantity": 8
+    },
+    {
+        "title": "Washing Machine",
+        "description": "Fully automatic washing machine with multiple wash programs.",
+        "price": 499,
+        "category": "home appliances",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa8zFuz-oYpeHcDU5EEQ7qWcHAqlk0DG8hEQ&s",
+        "quantity": 12
+    },
+    {
+        "title": "Shirt",
+        "description": "Elegant summer dress made from lightweight fabric.",
+        "price": 59,
+        "category": "clothing",
+        "image": "https://menincrown.in/cdn/shop/files/WhatsAppImage2024-01-19at21.21.59_1440x_06cc9393-3f88-4411-83d5-ae73b0a3ad27.webp?v=1725366517",
+        "quantity": 35
+    },
+    {
+        "title": "Monitor",
+        "description": "Ultra HD monitor for productivity and entertainment.",
+        "price": 299,
+        "category": "electronics",
+        "image": "https://m.media-amazon.com/images/I/8113HWMkslL._AC_UF1000,1000_QL80_.jpg",
+        "quantity": 20
+    }
+
+   
+]
